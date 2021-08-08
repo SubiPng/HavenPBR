@@ -9,7 +9,7 @@ Some blocks Normal & Specular maps are missing
 
 <https://www.curseforge.com/minecraft/texture-packs/haven-pbr>
 
-Base: Property of Haven.
+**Base:** Property of Haven.
 
 This resource pack adds Normal & Specular textures, which are LabPBR 1.3 complaint.
 
@@ -17,5 +17,5 @@ For a list of LabPBR 1.3 compatible shader packs, click here.
 
 Special thanks to Yato for contributing. 
 
-Note: Haven resource pack is required
+**Note:** Haven resource pack is required
 
