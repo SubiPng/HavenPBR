@@ -10,5 +10,7 @@ This resource pack adds Normal & Specular textures, which are LabPBR 1.3 complai
 
 For a list of LabPBR 1.3 compatible shader packs, click here.
 
+Special thanks to Yato for contributing. 
+
 Note : Haven resource pack is required
 
